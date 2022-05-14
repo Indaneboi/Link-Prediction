@@ -1,1 +1,5 @@
 # Link-Prediction
+In today’s world, the social-based online network systems are rapidly expanding, which results in large accumulation of data. The availability of this vast amount of data gathered in these systems brings new challenges when we try to analyze them. The prediction of social connections between users is one of the intensively researched topics.
+Link prediction finds missing links or predicts the likelihood of future links. The problem of link prediction is a very well-studied problem and has applications in many different areas, some of which can be commonly seen in recommendation engines, such as new connections (suggested friends/followers) on social networks or related products on shopping sites.
+A lot of algorithms have already been presented in context for solving the problem of link prediction. I selected three real-world social networks and seven most widely used link prediction algorithms.
+I conducted a survey of theses existing Link Prediction techniques to the best of my knowledge and performed a comparative analysis of these techniques.
